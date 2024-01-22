@@ -1,5 +1,7 @@
 # Nanos6 Runtime
 
+Fork for continuous integration.
+
 Nanos6 is a runtime that implements the OmpSs-2 parallel programming model,
 developed by the [*Programming Models group*](https://pm.bsc.es/)
 at the [**Barcelona Supercomputing Center**](http://www.bsc.es/).
